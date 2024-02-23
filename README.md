@@ -1,6 +1,6 @@
 # Welcome to my page!
 
-*This is my first basic static website 😃
+*This is my first basic static website* 😃
 
 ## This could be some cool second title
 
